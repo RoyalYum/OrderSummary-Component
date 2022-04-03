@@ -125,6 +125,7 @@ a{
         margin: 60px;
         background-size: contain;
         background-color: rgba(173, 166, 255, 0.2);
+        padding-left:20px;
         
     }
     .main-container{
