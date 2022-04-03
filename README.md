@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-component-Hkmu0xvX9)
-- Live Site URL: [Add live site URL here](https://order-summary-gamma-mocha.vercel.app/)
+- Live Site URL: [Add live site URL here](https://order-sum.vercel.app/)
 
 ### Built with
 
