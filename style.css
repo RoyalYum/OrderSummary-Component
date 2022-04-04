@@ -127,8 +127,7 @@ color:lightblue;
     body{
         background: url("./images/pattern-background-mobile.svg");
         background-repeat: no-repeat;
-        margin: auto;
-Width:39vh;
+        margin: 60px;
         background-size: contain;
         background-color: rgba(173, 166, 255, 0.2);
         
